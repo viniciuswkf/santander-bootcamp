@@ -1,4 +1,4 @@
-package collections.listsearch;
+package collections.list.search;
 
 public class Livro {
 
